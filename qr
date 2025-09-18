@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <body style="text-align:center; font-family:sans-serif;">
+    <h2>Choose an Option</h2>
+    <button onclick="alert('You chose Option 1')">Option 1</button><br><br>
+    <button onclick="alert('You chose Option 2')">Option 2</button><br><br>
+    <button onclick="alert('You chose Option 3')">Option 3</button>
+  </body>
+</html>
